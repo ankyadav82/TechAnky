@@ -5,7 +5,7 @@
     <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
   </h1>
   <p>
-    I'm a passionate <strong>Full-Stack Developer, Student</strong> from India. 
+    I'm a passionate <strong>Full-Stack Developer</strong> from India. 
     <br/>
     I love building innovative solutions and I'm constantly learning new technologies.
   </p>
@@ -74,27 +74,7 @@ Here are some of the technologies I've been working with:
   </p>
 </div>
 
----
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DearAnkit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankit's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearAnkit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DearAnkit&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DearAnkit&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
 
 <div align="center">
   <p>
